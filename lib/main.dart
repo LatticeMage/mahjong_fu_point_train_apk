@@ -1,4 +1,3 @@
-import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:webview_flutter/webview_flutter.dart';
@@ -61,7 +60,7 @@ class _WebViewPageState extends State<WebViewPage> {
           },
         ),
       )
-      ..loadRequest(Uri.parse('https://lattice.posetmage.com/jp_mahjong_score_train/'));
+      ..loadRequest(Uri.parse('https://lattice.posetmage.com/mahjong_fu_point_train/'));
   }
 
   @override

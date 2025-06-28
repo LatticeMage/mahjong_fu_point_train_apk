@@ -1,4 +1,4 @@
-package com.example.jp_mahjong
+package com.example.mahjong_fu_point_train
 
 import io.flutter.embedding.android.FlutterActivity
 

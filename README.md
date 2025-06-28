@@ -1,4 +1,4 @@
-# jp_mahjong
+# mahjong_fu_point_train
 
 A new Flutter project.
 
